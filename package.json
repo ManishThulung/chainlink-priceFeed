@@ -13,6 +13,8 @@
   },
   "scripts": {
     "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "test:sepolia": "npx hardhat test --network sepolia",
     "deploy": "npx hardhat deploy",
     "deploy:sepolia": "npx hardhat deploy --network sepolia"
   }
