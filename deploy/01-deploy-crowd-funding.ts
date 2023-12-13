@@ -51,4 +51,4 @@ const deployCrowdFunding: DeployFunction = async (
 };
 
 export default deployCrowdFunding;
-deployCrowdFunding.tags = ["all", "crowdFunding"];
+deployCrowdFunding.tags = ["all", "main"];
